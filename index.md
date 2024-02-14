@@ -6,9 +6,7 @@ Part 1
 Above are my code for the ChatServer and two screenshots of using /add-message.
 
 For the first screenshot
-Methods called:
-The handleRequest method in the ChatHandler class is called.
-Arguments to methods and relevant fields:
+Methods called: The handleRequest method in the ChatHandler class.
 Relevant Arguments:
 The relevant argument to the handleRequest method is the URL url perameter. 
 The chatHistory field of the ChatHandler class is relevant as it stores the chat messages.
@@ -21,7 +19,6 @@ Explanation: The chatHistory field starts as an empty string. When the /add-mess
 For the second screenshot,
 Methods called:
 The handleRequest method in the ChatHandler class is called.
-Arguments to methods and relevant fields:
 Relevant Arguments:
 The relevant argument to the handleRequest method is the URL url perameter.
 The chatHistory field of the ChatHandler class is relevant as it stores the chat messages.
