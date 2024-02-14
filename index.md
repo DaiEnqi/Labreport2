@@ -33,7 +33,7 @@ Part 2
 First is the absolute path to the private key for my SSH key for logging into ieng6.
 ![Image](publickey.png)
 This picture shows the path to the public key for my SSH key for logging into ieng6.
-![Image](Interaction.png)
+![Image](Intersaction.png)
 This is the terminal interaction where I logged into my ieng6 account without being asked for a password.
 
 Part 3
